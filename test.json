@@ -1,5 +1,13 @@
-{
+[
+  {
   "nom": "doe",
   "prenom": "john",
   "age": 31
-}
+  },
+  {
+    "nom": "doe",
+    "prenom": "john",
+    "age": 31
+  }
+]
+  
