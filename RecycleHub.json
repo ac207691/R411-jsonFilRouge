@@ -1,15 +1,26 @@
 [
   {
-  "nom": "RecycleHub"
+  "nom": "Vehicule"
   },
   {
-    "nom": "martin"
+    "nom": "Electronique"
   },
   {
-    "nom": "ttt"
+    "nom": "Maison et jardin"
   },
   {
-    "nom": "tt"
+    "nom": "Famille"
+  },
+  {
+    "nom": "Mode"
+  },
+  {
+    "nom": "Loisir"
+  },
+  {
+    "nom": "Materiel professionnel"
+  },
+  {
+    "nom": "Divers"
   }
 ]
-  
