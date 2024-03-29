@@ -1,26 +1,146 @@
 [
   {
-  "nom": "Vehicule"
+    "id": "0007",
+    "titre": "Table à manger en bois massif",
+    "description": "Table à manger en bois massif, style rustique, peut accueillir jusqu'à 6 personnes.",
+    "prix": 500,
+    "etat": "Bon",
+    "categorie": "Maison et Jardin",
+    "avis": "8/10"
   },
   {
-    "nom": "Electronique"
+    "id": "0008",
+    "titre": "Tondeuse à gazon électrique",
+    "description": "Tondeuse à gazon électrique, marque Bosch, utilisée seulement une saison.",
+    "prix": 150,
+    "etat": "Très bon",
+    "categorie": "Maison et Jardin",
+    "avis": "9/10"
   },
   {
-    "nom": "Maison et jardin"
+    "id": "0009",
+    "titre": "Ensemble de canapés en cuir",
+    "description": "Ensemble de canapés en cuir véritable, couleur noire, comprenant un canapé 3 places et deux fauteuils.",
+    "prix": 900,
+    "etat": "Excellent",
+    "categorie": "Maison et Jardin",
+    "avis": "9/10"
   },
   {
-    "nom": "Famille"
+    "id": "0010",
+    "titre": "Tapis persan fait main",
+    "description": "Tapis persan fait main, motif traditionnel, dimensions 200x300cm, en excellent état.",
+    "prix": 800,
+    "etat": "Comme neuf",
+    "categorie": "Maison et Jardin",
+    "avis": "10/10"
   },
   {
-    "nom": "Mode"
+    "id": "0011",
+    "titre": "Ordinateur portable MacBook Pro",
+    "description": "MacBook Pro 2023, processeur Intel Core i7, 16 Go de RAM, SSD 512 Go, en parfait état.",
+    "prix": 1800,
+    "etat": "Parfait",
+    "categorie": "Electronique",
+    "avis": "10/10"
   },
   {
-    "nom": "Loisir"
+    "id": "0012",
+    "titre": "Télévision Samsung 4K",
+    "description": "Télévision Samsung 55 pouces, résolution 4K, Smart TV, comme neuve.",
+    "prix": 900,
+    "etat": "Comme neuf",
+    "categorie": "Electronique",
+    "avis": "9/10"
   },
   {
-    "nom": "Materiel professionnel"
+    "id": "0013",
+    "titre": "Console de jeu PlayStation 5",
+    "description": "PlayStation 5 avec deux manettes, utilisée seulement quelques fois, comme neuve.",
+    "prix": 600,
+    "etat": "Comme neuf",
+    "categorie": "Electronique",
+    "avis": "9/10"
   },
   {
-    "nom": "Divers"
+    "id": "0014",
+    "titre": "Casque audio sans fil Bose",
+    "description": "Casque audio sans fil Bose, réduction de bruit active, autonomie de 20 heures, en excellent état.",
+    "prix": 250,
+    "etat": "Excellent",
+    "categorie": "Electronique",
+    "avis": "8/10"
+  },
+  {
+    "id": "0015",
+    "titre": "Costume homme sur mesure",
+    "description": "Costume homme sur mesure, couleur bleu marine, taille 42, porté une seule fois.",
+    "prix": 400,
+    "etat": "Excellent",
+    "categorie": "Mode",
+    "avis": "9/10"
+  },
+  {
+    "id": "0016",
+    "titre": "Sac à main en cuir",
+    "description": "Sac à main en cuir véritable, couleur beige, de marque Louis Vuitton, en parfait état.",
+    "prix": 800,
+    "etat": "Parfait",
+    "categorie": "Mode",
+    "avis": "10/10"
+  },
+  {
+    "id": "0017",
+    "titre": "Chaussures de sport Nike Air Max",
+    "description": "Chaussures de sport Nike Air Max, taille 42, portées quelques fois, en très bon état.",
+    "prix": 120,
+    "etat": "Très bon",
+    "categorie": "Mode",
+    "avis": "8/10"
+  },
+  {
+    "id": "0018",
+    "titre": "Robe de cocktail noire",
+    "description": "Robe de cocktail noire, taille S, portée une seule fois, comme neuve.",
+    "prix": 150,
+    "etat": "Comme neuf",
+    "categorie": "Mode",
+    "avis": "9/10"
+  },
+  {
+    "id": "0019",
+    "titre": "Planche de surf",
+    "description": "Planche de surf polyvalente, 6'4'', idéale pour les débutants et les surfeurs intermédiaires.",
+    "prix": 300,
+    "etat": "Bon",
+    "categorie": "Loisir",
+    "avis": "7/10"
+  },
+  {
+    "id": "0020",
+    "titre": "Tente de camping familiale",
+    "description": "Tente de camping familiale, 6 personnes, avec espace de vie spacieux et facile à monter.",
+    "prix": 200,
+    "etat": "Excellent",
+    "categorie": "Loisir",
+    "avis": "9/10"
+  },
+  {
+    "id": "0021",
+    "titre": "Ensemble de clubs de golf",
+    "description": "Ensemble de clubs de golf complet avec sac de transport, idéal pour les golfeurs débutants.",
+    "prix": 250,
+    "etat": "Très bon",
+    "categorie": "Loisir",
+    "avis": "8/10"
+  },
+  {
+    "id": "0022",
+    "titre": "Kayak de mer gonflable",
+    "description": "Kayak de mer gonflable pour deux personnes, robuste et facile à transporter, utilisé deux fois.",
+    "prix": 400,
+    "etat": "Excellent",
+    "categorie": "Loisir",
+    "avis": "9/10"
   }
 ]
